@@ -1,9 +1,3 @@
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
 /*!
   * vue-router v3.4.3
   * (c) 2020 Evan You
@@ -30,6 +24,12 @@ object-assign
  */
 
 /*!
+ * vue-dplayer v0.0.10
+ * (c) 2017-present sinchang <sinchangwen@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
  * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
@@ -39,16 +39,4 @@ object-assign
  * vuex v3.5.1
  * (c) 2020 Evan You
  * @license MIT
- */
-
-/**
- * @license
- * Video.js 6.13.0 <http://videojs.com/>
- * Copyright Brightcove, Inc. <https://www.brightcove.com/>
- * Available under Apache License Version 2.0
- * <https://github.com/videojs/video.js/blob/master/LICENSE>
- *
- * Includes vtt.js <https://github.com/mozilla/vtt.js>
- * Available under Apache License Version 2.0
- * <https://github.com/mozilla/vtt.js/blob/master/LICENSE>
  */
